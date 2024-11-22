@@ -9,8 +9,13 @@ I am a Mechatronics Engineering student at Universidad de América, passionate a
 ## Python Libraries  
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white" height="20"/> &nbsp;  
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" height="20" /> &nbsp;  
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%23113D75.svg?&style=flat&logo=python&logoColor=white" height="20" /> &nbsp;  
+<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23007396.svg?&style=flat&logo=python&logoColor=white" height="20" /> &nbsp;  
 <img alt="SymPy" src="https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white" height="20" /> &nbsp;  
-<img alt="plotly" src="https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />  
+<img alt="Plotly" src="https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />  
+
+## Skills  
+- **Version Control:** Proficient in GitHub for version control, collaboration, and project management.  
 
 ## Interests  
 - Artificial Intelligence  
@@ -26,4 +31,3 @@ I am a Mechatronics Engineering student at Universidad de América, passionate a
 <!-- Add your links here -->  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com)](https://linkedin.com)  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com)](https://twitter.com)  
-
