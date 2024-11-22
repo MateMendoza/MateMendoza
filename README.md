@@ -2,8 +2,9 @@
 
 I am a Mechatronics Engineering student at Universidad de América, passionate about artificial intelligence, electrical circuits, and robotics.  
 
-## Python library management
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white" height="20"/>  
+## Programming Languages  
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white" height="20"/> &nbsp;  
+<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />  
 
 ## Python Libraries  
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white" height="20"/> &nbsp;  
